@@ -1,41 +1,56 @@
+<div align="center">
+
+![GitHub图标](./tmp/image_logo.png.)
+
 # 예산맛집 - AI 지도 맛집 검색 플랫폼
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue)
-![Version](https://img.shields.io/badge/version-1.0.0-green)
+![Version](https://img.shields.io/badge/version-1.0.3-green)
 ![Status](https://img.shields.io/badge/status-Production%20Ready-brightgreen)
-## Links
+## Link
 
 Check Here to Experience my products! 
 
 ->[예산 맛집](https://v0-new-project-x6pcnftuf9i.vercel.app/)<-
 
+</div>
+
+## Blockquotes
+
+> git clone https://github.com/kennySexe/tmp.git
+>
+>> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
+## Github
+
+Get `git clone https://github.com/kennySexe/tmp.git`.
+
 #### 가격을 입력해 크롤링 기술과 AI를 결합한 지능형 맛집 검색 서비스
 
 ##  주요 기능
 
-**AI 대화형 검색**: Deepseek AI 모델을 활용한 자연어 처리
+**AI 대화형 검색**: `Deepseek AI 모델을 활용한 자연어 처리`
 
-**실시간 지도 연동**: Kakao Maps API 기반 위치 서비스
+**실시간 지도 연동**: `Kakao Maps API 기반 위치 서비스`
 
-**빅데이터 크롤링**: Python Scrapy 기반 실시간 데이터 수집
+**빅데이터 크롤링**: `Python Scrapy 기반 실시간 데이터 수집`
 
 ## 🛠️ 기술 스택
 
-### Frontend
-- Next.js 15
-- React 18
-- TypeScript 5
-- Tailwind CSS 3.4
-- shadcn/ui
+* Frontend
+  * Next.js 15
+  * React 18
+  * TypeScript 5
+  * Tailwind CSS 3.4
+  * shadcn/ui
 
-### AI & Backend
-- Deepseek AI
-- Python 3.11 (크롤링)
+* AI & Backend
+  * Deepseek AI
+  * Python 3.11 (크롤링)
 
-### APIs & Services
-- Kakao Maps API
-- Kakao Places API
-- Web Geolocation API
+* APIs & Services
+  * Kakao Maps API
+  * Kakao Places API
+  * Web Geolocation API
 
 
 ## 프로젝트 구조
@@ -67,96 +82,16 @@ Check Here to Experience my products!
 ├── next.config.mjs               # Next.js 설정
 ├── tailwind.config.ts            # Tailwind CSS 설정
 ├── tsconfig.json                 # TypeScript 설정
-└── package.json                  # 프로젝트 의존성`}</pre>
-              
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# This is a Heading h1
-## This is a Heading h2
-###### This is a Heading h6
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Unordered
-
-* Item 1
-* Item 2
-* Item 2a
-* Item 2b
-    * Item 3a
-    * Item 3b
-
-### Ordered
-
-1. Item 1
-2. Item 2
-3. Item 3
-    1. Item 3a
-    2. Item 3b
-
-## Images
-
-![This is an alt text.](/image/sample.webp "This is a sample image.")
-
-## Links
-
-You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
-
-## Blockquotes
-
-> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
->
->> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
+└── package.json                  # 프로젝트 의존성</pre>
 
 ## Tables
 
-| Left columns  | Right columns |
-| ------------- |:-------------:|
-| left foo      | right foo     |
-| left bar      | right bar     |
-| left baz      | right baz     |
+|배포장소| Right columns | Right columns |
+| ------------- |:-------------:|:-------------:|
+| 에브리타임      | right foo     | Right columns |
+|       | right bar     | Right columns |
+| left baz      | right baz     | Right columns |
+
 
 ## Blocks of code
 
@@ -167,4 +102,4 @@ alert(message);
 
 ## Inline code
 
-This web site is using `markedjs/marked`.
+This web site is using `git clone https://github.com/kennySexe/tmp.git`.
