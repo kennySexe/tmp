@@ -1,6 +1,6 @@
 <div align="center">
 
-![GitHub图标](./LOGO.png)
+![LOGO](./LOGO.png)
 
 # 예산맛집 - AI 지도 맛집 검색 플랫폼
 
@@ -15,16 +15,16 @@ Check Here to Experience my products!
 
 </div>
 
-## Blockquotes
+## Introduction
 
-> git clone https://github.com/kennySexe/tmp.git
+>예산맛집은 AI 기술과 웹 크롤링을 결합하여 사용자의 예산과 위치를 고려한 맞춤형 맛집 추천 서비스를 제공하는 현대적인 웹 애플리케이션입니다. Next.js 15와 React 18의 최신 기능을 활용하여 구축되었으며, Deepseek AI 모델을 통한 자연어 처리와 Kakao Maps API를 통한 실시간 지도 서비스를 제공합니다.
 >
->> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
+
 ## Github
 
 Get `git clone https://github.com/kennySexe/tmp.git`.
 
-#### 가격을 입력해 크롤링 기술과 AI를 결합한 지능형 맛집 검색 서비스
+가격을 입력해 크롤링 기술과 AI를 결합한 지능형 맛집 검색 서비스
 
 ##  주요 기능
 
@@ -84,22 +84,4 @@ Get `git clone https://github.com/kennySexe/tmp.git`.
 ├── tsconfig.json                 # TypeScript 설정
 └── package.json                  # 프로젝트 의존성</pre>
 
-## Tables
 
-|배포장소| Right columns | Right columns |
-| ------------- |:-------------:|:-------------:|
-| 에브리타임      | right foo     | Right columns |
-|       | right bar     | Right columns |
-| left baz      | right baz     | Right columns |
-
-
-## Blocks of code
-
-```
-let message = 'Hello world';
-alert(message);
-```
-
-## Inline code
-
-This web site is using `git clone https://github.com/kennySexe/tmp.git`.
