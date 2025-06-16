@@ -1,6 +1,6 @@
 <div align="center">
 
-![GitHub图标](./tmp/image_logo.png.)
+![GitHub图标](./tmp/image_logo.png)
 
 # 예산맛집 - AI 지도 맛집 검색 플랫폼
 
